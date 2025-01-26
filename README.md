@@ -12,7 +12,7 @@ Only for Personal Records and Reviews: Sophomore 2024 Fall (third semester)
 
 ## Menu
 
-Computer System Organization NYU CS, Lecturer: Moody
+Operating Systems NYU CS, Lecturer: Joycelyn Chen
 - [stack_frame](https://github.com/Ruian7P/Operating-Systems/blob/main/notes/1.stack_frame.md)
 - [process](https://github.com/Ruian7P/Operating-Systems/blob/main/notes/2.process.md)
 - [thread](https://github.com/Ruian7P/Operating-Systems/blob/main/notes/3.thread.md)
